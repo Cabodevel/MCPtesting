@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="MCPtesting/MCPtesting.csproj" />
+  <Project Path="McpTesting.Application/McpTesting.Application.csproj" />
+  <Project Path="McpTesting.Domain/McpTesting.Domain.csproj" />
+  <Project Path="McpTesting.Infrastructure/McpTesting.Infrastructure.csproj" />
+  <Project Path="MCPtesting/McpTesting.API.csproj" />
 </Solution>
