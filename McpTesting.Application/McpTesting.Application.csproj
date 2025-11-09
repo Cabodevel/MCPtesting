@@ -10,4 +10,8 @@
     <PackageReference Include="ModelContextProtocol.AspNetCore" Version="0.4.0-preview.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\McpTesting.Domain\McpTesting.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

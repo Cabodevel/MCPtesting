@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\McpTesting.Application\McpTesting.Application.csproj" />
+  </ItemGroup>
+
 </Project>

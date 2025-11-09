@@ -3,4 +3,5 @@
 public static class Tags
 {
     public static string Checks = "Checks";
+    public static string McpTools = "McpTools";
 }
